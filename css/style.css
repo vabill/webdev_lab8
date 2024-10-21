@@ -3,24 +3,24 @@
 	overflow: hidden;
 }
 
-#nav-containter {
+#navbar-containter {
 	float: left;
 	width: 100%;
-	position: realitive;
+	position: realtive;
 }
 
 #main-navbar ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
-	position: realitive;
+	position: realtive;
 	left: 50%;
 	float: left;
 }
 
 #main_navbar ul li {
 	float: left;
-	position: realitive;
+	position: realtive;
 	right: 50%;
 	display: block;
 }
@@ -37,7 +37,7 @@
 }
 
 #onpage {
-	text-decoration: underline overlay;
+	text-decoration: underline overline;
 }
 
 #sidebar {
